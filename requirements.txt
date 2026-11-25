@@ -1,0 +1,4 @@
+# Optional dependencies for the advisory model and generated charts
+matplotlib
+numpy
+scikit-learn
